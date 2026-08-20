@@ -5,7 +5,7 @@ export const initialUsers = [
     email: 'rishi@gmail.com',
     phone: '+91 98765 43210',
     address: '42 Lotus Heights, MG Road, Bengaluru, Karnataka - 560001',
-    avatarUrl: 'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=400&auto=format&fit=crop&q=80',
+    avatarUrl: 'https://www.vecteezy.com/free-videos/cartoon-picture',
     role: 'user',
     registrationDate: '2026-05-15',
     isActive: true,
